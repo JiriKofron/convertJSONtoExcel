@@ -1,0 +1,8 @@
+# Ignore all source json files
+*.json
+
+# Ignore export folder
+exports
+
+# Ignore node modules
+node_modules
